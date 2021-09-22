@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techno-rabit
-- 📝 I regulary write articles on technorabit.medium.com
+- 📝 I regulary write articles on https://technorabit.medium.com
 - 💬 Ask me about Shell Scripting, Ethical Hacking, Penetration Testing.
 - 📫 Reach me at vishnuprasadsr2003@gmail.com
 
