@@ -16,10 +16,10 @@
 ### Connect with me:
 
 [<img align="left" alt="technorabit.unaux.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="techno_rabit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<a href="https://twitter.com/techno_rabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techno_rabit" height="30" width="40" /></a>
 [<img align="left" alt="_.v.shnu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="technorabit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-<a href="https://twitter.com/techno_rabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techno_rabit" height="30" width="40" /></a>
+
 
 
 <br />
