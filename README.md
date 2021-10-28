@@ -19,7 +19,7 @@
 <a href="https://instagram.com/_.v.shnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
 <a href="https://technorabit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="technorabit" height="30" width="40" /></a>
 
-
+<p><a href="https://www.buymeacoffee.com/technorabit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technorabit" /></a></p><br><br>
 <br />
 <br />
 
