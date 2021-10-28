@@ -18,6 +18,7 @@
 <a href="http://technorabit.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="technorabit" height="30" width="40" /></a> 
 <a href="https://instagram.com/_.v.shnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
 <a href="https://technorabit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="technorabit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/technorabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/technorabit" height="30" width="40" /></a>
 
 <br />
 
