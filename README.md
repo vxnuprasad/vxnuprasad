@@ -14,8 +14,7 @@
 --> 
 
 ### Connect with me:
-
-[<img align="left" alt="technorabit.unaux.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+<a href="https://http://technorabit.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="technorabit" height="30" width="40" /></a> 
 <a href="https://twitter.com/techno_rabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techno_rabit" height="30" width="40" /></a>
 <a href="https://instagram.com/_.v.shnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
 <a href="https://technorabit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="technorabit" height="30" width="40" /></a>
