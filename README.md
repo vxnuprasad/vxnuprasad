@@ -5,7 +5,7 @@
 
 ## I'm a Cyber Security Researcher , CEH , Content Creator , Blogger
 
-- 💬 Ask me about Shell Scripting, Ethical Hacking, Penetration Testing.
+- 💬 Ask me about Shell Scripting, Hacking, Penetration Testing.
 - 📫 Reach me at vishnuprasadsr2003@gmail.com
 <!--
 - 👯 I’m looking to collaborate with other content creators
