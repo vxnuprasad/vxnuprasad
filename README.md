@@ -19,7 +19,7 @@
 <a href="https://instagram.com/_.v.shnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
 <a href="https://technorabit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="technorabit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCaPmFMugat7y-tD3PUcyu_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/technorabit" height="30" width="40" /></a>
-
+<a href="https://dev.to/technorabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/technorabit" height="30" width="40" /></a>
 <br />
 
 <p><a href="https://www.buymeacoffee.com/technorabit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technorabit" /></a></p>
