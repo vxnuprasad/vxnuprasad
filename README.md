@@ -1,6 +1,6 @@
 ### Hi there, I'm Vishnu Prasad 👋
 
-[![Website](https://img.shields.io/website?label=technorabit.unaux.com&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://technorabit.unaux.com)
+[![Website](https://img.shields.io/website?label=Linkedtree&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://linktr.ee/technorabit)
 [![Twitter Follow](https://img.shields.io/twitter/follow/techno_rabit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=techno_rabit)
 
 ## I’m a Cyber Security Researcher , Content Creator , UI UX Designer , Blogger
