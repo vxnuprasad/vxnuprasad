@@ -3,10 +3,9 @@
 [![Website](https://img.shields.io/website?label=Linktree&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://linktr.ee/technorabit)
 [![Twitter Follow](https://img.shields.io/twitter/follow/techno_rabit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=techno_rabit)
 
-## 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙰𝚗𝚊𝚕𝚢𝚜𝚝 | 𝙿𝚢𝚝𝚑𝚘𝚗 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 | 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚍 𝚒𝚗 𝙿𝚎𝚗𝚎𝚝𝚛𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚜𝚝𝚒𝚗𝚐, 𝙲𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 & 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 | 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚘𝚏 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚃𝚘𝚘𝚕𝚜
+## Aspiring Cybersecurity Analyst | Python Enthusiast | Experienced in Penetration Testing, Cryptography & Network Security | Developer of Cybersecurity Tools
 
-
-- 💬 Ask me about Shell Scripting, Hacking, Penetration Testing, Flutter, Dart, Figma.
+- 💬 Ask me about: Python Programming, Cybersecurity Tools, Penetration Testing, Encryption/Decryption, Web Development with Django, Ethical Hacking, Network Security, Cryptography, Packet Analysis, Keylogging.
 - 📫 Reach me at vishnuprasadsr2003@gmail.com
 
 
