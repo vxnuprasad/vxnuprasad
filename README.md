@@ -9,6 +9,8 @@
 - 📫 Reach me at vishnuprasadsr2003@gmail.com
 
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vxnuprasad&show_icons=true&locale=en&layout=compact" alt="vxnuprasad" /></p>
+
 ### Connect with me:
 <a href="https://twitter.com/techno_rabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techno_rabit" height="30" width="40" /></a>
 <a href="https://dev.to/technorabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/technorabit" height="30" width="40" /></a>
