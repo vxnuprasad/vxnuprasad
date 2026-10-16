@@ -87,10 +87,10 @@ I enjoy exploring how systems work, building practical digital solutions, and le
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top"><b><a href="https://vxnuprasad.vercel.app/">Portfolio →</a></b><br><sub><code>vxnuprasad.vercel.app</code></sub></td>
-    <td width="25%" valign="top"><b><a href="https://greynodlabs.com/">GreyNod Labs →</a></b><br><sub><code>greynodlabs.com</code></sub></td>
-    <td width="25%" valign="top"><b><a href="https://github.com/vxnuprasad">GitHub →</a></b><br><sub><code>@vxnuprasad</code></sub></td>
-    <td width="25%" valign="top"><b><a href="mailto:vxnuprasad@gmail.com">Email →</a></b><br><sub><code>vxnuprasad@gmail.com</code></sub></td>
+    <td width="25%" valign="top"><b><a href="https://www.linkedin.com/in/vxnuprasad/">LinkedIn →</a></b><br><sub><code>in/vxnuprasad</code></sub></td>
+    <td width="25%" valign="top"><b><a href="https://vxnuprasad.medium.com/">Medium →</a></b><br><sub><code>@vxnuprasad</code></sub></td>
+    <td width="25%" valign="top"><b><a href="https://www.instagram.com/__.v.shnu/">Instagram →</a></b><br><sub><code>@__.v.shnu</code></sub></td>
+    <td width="25%" valign="top">&nbsp;</td>
   </tr>
 </table>
 
