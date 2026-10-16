@@ -1,10 +1,3 @@
-<table width="100%">
-  <tr>
-    <td align="left"><code>vxnuprasad / README.md</code></td>
-    <td align="right"><sub><code>Building with purpose. Learning by doing. ●</code></sub></td>
-  </tr>
-</table>
-
 <sub><code>CYBERSECURITY · DEVELOPMENT · TECHNOLOGY</code></sub>
 
 # Hi, I'm Vishnu Prasad.
@@ -15,26 +8,21 @@ I'm Vishnu Prasad, Co-founder and Managing Director of GreyNod Labs. With a back
 
 I enjoy exploring how systems work, building practical digital solutions, and learning through hands-on projects.
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top"><b><a href="https://vxnuprasad.vercel.app/">Portfolio →</a></b><br><sub><code>vxnuprasad.vercel.app</code></sub></td>
-    <td width="25%" valign="top"><b><a href="https://greynodlabs.com/">GreyNod Labs →</a></b><br><sub><code>greynodlabs.com</code></sub></td>
-    <td width="25%" valign="top"><b><a href="https://www.greynodlabs.com/founders/vishnu-prasad">Founder Profile →</a></b><br><sub><code>greynodlabs.com/founders</code></sub></td>
-    <td width="25%" valign="top"><b><a href="mailto:vxnuprasad@gmail.com">Contact →</a></b><br><sub><code>vxnuprasad@gmail.com</code></sub></td>
-  </tr>
-</table>
+**[Portfolio&nbsp;→](https://vxnuprasad.vercel.app/)** &nbsp;·&nbsp; **[GreyNod&nbsp;Labs&nbsp;→](https://greynodlabs.com/)** &nbsp;·&nbsp; **[Founder&nbsp;Profile&nbsp;→](https://www.greynodlabs.com/founders/vishnu-prasad)**
 
 ---
 
 ### `// FOCUS AREAS`
 
-<table width="100%">
+<table>
   <tr>
-    <td width="20%" valign="top"><code>01</code><br>Cybersecurity Research</td>
-    <td width="20%" valign="top"><code>02</code><br>Web &amp; E-commerce Development</td>
-    <td width="20%" valign="top"><code>03</code><br>Networking &amp; Linux</td>
-    <td width="20%" valign="top"><code>04</code><br>IoT &amp; Embedded Systems</td>
-    <td width="20%" valign="top"><code>05</code><br>Security Tools &amp; Automation</td>
+    <td><code>01</code>&nbsp;Cybersecurity&nbsp;Research</td>
+    <td><code>02</code>&nbsp;Web&nbsp;&amp;&nbsp;E-commerce&nbsp;Development</td>
+    <td><code>03</code>&nbsp;Networking&nbsp;&amp;&nbsp;Linux</td>
+  </tr>
+  <tr>
+    <td><code>04</code>&nbsp;IoT&nbsp;&amp;&nbsp;Embedded&nbsp;Systems</td>
+    <td colspan="2"><code>05</code>&nbsp;Security&nbsp;Tools&nbsp;&amp;&nbsp;Automation</td>
   </tr>
 </table>
 
@@ -61,38 +49,20 @@ I enjoy exploring how systems work, building practical digital solutions, and le
 
 ### `// SELECTED PROJECTS`
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://vxnuprasad.vercel.app/">Personal Portfolio →</a></b><br>
-      <sub>My personal portfolio showcasing my background, technical interests, and selected work.</sub><br><br>
-      <code>Portfolio</code> <code>Web</code>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/vxnuprasad/myfit-tracker">MyFit Tracker →</a></b><br>
-      <sub>A personal fitness tracking application with workout planning and progress tracking.</sub><br><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Fitness</code>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://greynodlabs.com/">GreyNod Labs →</a></b><br>
-      <sub>Cybersecurity and digital solutions, including web development and e-commerce projects.</sub><br><br>
-      <code>Company</code> <code>Cybersecurity</code> <code>Development</code>
-    </td>
-  </tr>
-</table>
+**[Personal&nbsp;Portfolio&nbsp;→](https://vxnuprasad.vercel.app/)** &nbsp; `Portfolio` `Web`<br>
+<sub>My personal portfolio showcasing my background, technical interests, and selected work.</sub>
+
+**[MyFit&nbsp;Tracker&nbsp;→](https://github.com/vxnuprasad/myfit-tracker)** &nbsp; `Next.js` `TypeScript` `Fitness`<br>
+<sub>A personal fitness tracking application with workout planning and progress tracking.</sub>
+
+**[GreyNod&nbsp;Labs&nbsp;→](https://greynodlabs.com/)** &nbsp; `Company` `Cybersecurity` `Development`<br>
+<sub>Cybersecurity and digital solutions, including web development and e-commerce projects.</sub>
 
 ---
 
 ### `// CONNECT WITH ME`
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top"><b><a href="https://www.linkedin.com/in/vxnuprasad/">LinkedIn →</a></b><br><sub><code>in/vxnuprasad</code></sub></td>
-    <td width="25%" valign="top"><b><a href="https://vxnuprasad.medium.com/">Medium →</a></b><br><sub><code>@vxnuprasad</code></sub></td>
-    <td width="25%" valign="top"><b><a href="https://www.instagram.com/__.v.shnu/">Instagram →</a></b><br><sub><code>@__.v.shnu</code></sub></td>
-    <td width="25%" valign="top">&nbsp;</td>
-  </tr>
-</table>
+**[GitHub](https://github.com/vxnuprasad)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/vxnuprasad/)** &nbsp;·&nbsp; **[Medium](https://vxnuprasad.medium.com/)** &nbsp;·&nbsp; **[Instagram](https://www.instagram.com/__.v.shnu/)** &nbsp;·&nbsp; **[Email](mailto:vxnuprasad@gmail.com)**
 
 ---
 
